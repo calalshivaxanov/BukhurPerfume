@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../../OpenServer/domains/localhost/Lima/.idea/Lima.iml" filepath="$PROJECT_DIR$/../../../OpenServer/domains/localhost/Lima/.idea/Lima.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/bukhur.iml" filepath="$PROJECT_DIR$/.idea/bukhur.iml" />
+    </modules>
+  </component>
+</project>
